@@ -1,0 +1,4 @@
+repository "Cosmic_ship@Cosmic_team@cloud"
+  path "/"
+    br "/main"
+    co "/main"
