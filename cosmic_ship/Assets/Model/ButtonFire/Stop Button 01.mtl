@@ -1,0 +1,12 @@
+# Blender MTL File: 'Stop Button 02.blend'
+# Material Count: 1
+
+newmtl Stop_Button_02_Mat
+Ns 250.000000
+Ka 0.439560 0.439560 0.439560
+Kd 0.224466 0.013361 0.011456
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
